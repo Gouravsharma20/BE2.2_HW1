@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Spice Garden",
+    "cuisine": ["Indian", "Mughlai"],
+    "location": "Delhi",
+    "rating": 4.5,
+    "reviews": [
+      "Amazing butter chicken!",
+      "Great ambiance and fast service."
+    ],
+    "website": "https://spicegarden.com",
+    "phoneNumber": "+91-9876543210",
+    "openHours": "10 AM - 11 PM",
+    "priceRange": "$40 $$80",
+    "reservationsNeeded": true,
+    "isDeliveryAvailable": true,
+    "menuUrl": "https://spicegarden.com/menu",
+    "photos": [
+      "https://images.com/spice1.jpg",
+      "https://images.com/spice2.jpg"
+    ]
+  },
+  {
+    "name": "Ocean Delight",
+    "cuisine": ["Seafood", "Continental"],
+    "location": "Mumbai",
+    "rating": 4.2,
+    "reviews": [
+      "Fresh seafood and excellent taste.",
+      "Loved the grilled prawns."
+    ],
+    "website": "https://oceandelight.com",
+    "phoneNumber": "+91-9123456780",
+    "openHours": "12 PM - 12 AM",
+    "priceRange": "$$$",
+    "reservationsNeeded": false,
+    "isDeliveryAvailable": true,
+    "menuUrl": "https://oceandelight.com/menu",
+    "photos": [
+      "https://images.com/ocean1.jpg",
+      "https://images.com/ocean2.jpg"
+    ]
+  },
+  {
+    "name": "Pizza Hub",
+    "cuisine": ["Italian", "Fast Food"],
+    "location": "Bangalore",
+    "rating": 4.0,
+    "reviews": [
+      "Cheesy pizzas are awesome.",
+      "Quick delivery service."
+    ],
+    "website": "https://pizzahub.com",
+    "phoneNumber": "+91-9988776655",
+    "openHours": "11 AM - 1 AM",
+    "priceRange": "$",
+    "reservationsNeeded": false,
+    "isDeliveryAvailable": true,
+    "menuUrl": "https://pizzahub.com/menu",
+    "photos": [
+      "https://images.com/pizza1.jpg",
+      "https://images.com/pizza2.jpg"
+    ]
+  },
+  {
+    "name": "Green Bowl",
+    "cuisine": ["Healthy", "Vegan"],
+    "location": "Pune",
+    "rating": 4.7,
+    "reviews": [
+      "Healthy and delicious meals.",
+      "Perfect place for vegan food lovers."
+    ],
+    "website": "https://greenbowl.com",
+    "phoneNumber": "+91-9012345678",
+    "openHours": "8 AM - 10 PM",
+    "priceRange": "$$",
+    "reservationsNeeded": true,
+    "isDeliveryAvailable": false,
+    "menuUrl": "https://greenbowl.com/menu",
+    "photos": [
+      "https://images.com/green1.jpg",
+      "https://images.com/green2.jpg"
+    ]
+  },
+  {
+    "name": "Burger Station",
+    "cuisine": ["American", "Fast Food"],
+    "location": "Hyderabad",
+    "rating": 3.9,
+    "reviews": [
+      "Huge burgers and crispy fries.",
+      "Affordable prices."
+    ],
+    "website": "https://burgerstation.com",
+    "phoneNumber": "+91-9090909090",
+    "openHours": "10 AM - 2 AM",
+    "priceRange": "$",
+    "reservationsNeeded": false,
+    "isDeliveryAvailable": true,
+    "menuUrl": "https://burgerstation.com/menu",
+    "photos": [
+      "https://images.com/burger1.jpg",
+      "https://images.com/burger2.jpg"
+    ]
+  }
+]
